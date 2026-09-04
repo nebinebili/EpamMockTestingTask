@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="MockTesting.Tests/MockTesting.Tests.csproj" />
+  <Project Path="MockTesting/MockTesting.csproj" />
+</Solution>
